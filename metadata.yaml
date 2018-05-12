@@ -1,0 +1,37 @@
+_repo: Watt-s-Songs-Against-Faults_37543
+_version: 0.1.0
+alternative_title: Watts' Songs Against Faults
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watts, Isaac
+    alias: Watts, I. (Isaac)
+    birthdate: 1674
+    deathdate: 1748
+    gutenberg_agent_id: '4876'
+    url: http://www.gutenberg.org/2009/agents/4876
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Watts
+description: ''
+gutenberg_issued: '2011-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Watts' Divine and Moral Songs
+subjects:
+- !lcsh 'Christian life -- Juvenile poetry'
+- !lcsh 'Children -- Conduct of life -- Juvenile poetry'
+- !lcsh 'Conduct of life -- Juvenile poetry'
+- !lcsh 'Children''s songs'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+tableOfContents: Against lying -- Love between brothers and sisters -- Against idleness
+  and mischief -- Solemn thoughts on God and death -- Summer's evening -- Against
+  quarrelling and fighting -- Our Saviour's golden rule -- Duty to God and our neighbor.
+title: Watt's Songs Against Faults
+url: http://www.gutenberg.org/ebooks/37543
